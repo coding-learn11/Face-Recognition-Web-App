@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+#title {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.family_members {
+    color: white;
+}
+
+#webcam {
+    color: white;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#take_picture {
+    font-size: 18px;
+    background-color: rgb(255, 129, 186);
+    color: white;
+}
+
+#identify {
+    font-size: 18px;
+    background-color:cornflowerblue;
+    color: white;
+}
+
+p {
+    color: white;
+}
